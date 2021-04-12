@@ -2,12 +2,12 @@ console.log('Iniciando Bot...')
 let { spawn } = require('child_process')
 let path = require('path')
 const CFonts  = require('cfonts')
-CFonts.say('PATO BOT', {
+CFonts.say('€M1 B∅T', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say('\'Bot para termux\' By Mr.Pato', {
+CFonts.say('\'Bot para termux\' €M1.b∅t', {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
