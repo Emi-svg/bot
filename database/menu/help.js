@@ -14,7 +14,6 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
 ┠≽ *Prefijo* : 「  ${prefix}  」
 ┠≽ *Creador* : ${ownerName}
 ┠≽ *Version* : 4
-┠≽ *Canal* : http://bit.ly/mrpato-yt
 ╿
 ┷┯ *〈 MENU 〉*
    ┠≽ *${prefix}logomakermenu*
@@ -42,13 +41,6 @@ const help = (pushname, prefix, botName, ownerName, reqXp, uangku) => {
    ┠≽ *${prefix}othermenu*
    ╿ *${ownerName}*,
    ╰╼≽  © ${botName}
-   *〈 GRUPOS 〉*
-   ┠≽ *Mr-Pato 1: https://bit.ly/3dr6p2P
-   ┠≽ *Mr-Pato 2: https://bit.ly/3wiL04v
-   ┠≽ *Félix bot: https://bit.ly/39tPICH
-   ┠≽ *Satan bot: https://bit.ly/39v9M7K
-   ╰╼
    
-   `
 }
 exports.help = help
